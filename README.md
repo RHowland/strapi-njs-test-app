@@ -1,0 +1,1 @@
+# strapi-njs-test-app
